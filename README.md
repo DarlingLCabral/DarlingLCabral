@@ -14,7 +14,7 @@
   ✨ Apaixonado por garantir a robustez da qualidade de software e encontrar bugs antes da produção.<br>
   📱 Especializado em testes automatizados e manuais para aplicações Mobile e Web.<br>
   🔌 Ampla experiência com testes, validação e automação de APIs.<br>
-  💼 Conecte-se comigo no <a href="https://linkedin.com/in/darling-cabral" target="_blank">LinkedIn</a> ou confira meus repositórios aqui e  no meu antigo Git <a href="https://github.com/DarlingL" target="_blank">GitHub</a>.
+  💼 Conecte-se comigo no <a href="https://linkedin.com/in/darling-cabral" target="_blank">LinkedIn</a> ou confira meus repositórios aqui e  no meu outro <a href="https://github.com/DarlingL" target="_blank">GitHub</a>.
 </p>
 
 ###
