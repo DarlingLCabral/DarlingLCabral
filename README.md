@@ -1,42 +1,28 @@
-<h1 data-importer="text" align="left">Hey 👋 What's up?</h1>
+<h1 data-importer="text" align="left">Olá 👋 Tudo bem?</h1>
 
 ###
 
-<p data-importer="text" align="left">My name is Darling Cabral and I'm a QA Engineer focused on quality assurance, test automation, mobile testing, and API testing.</p>
+<p data-importer="text" align="left">Meu nome é Darling Cabral e sou Engenheiro de QA com foco em garantia de qualidade, automação de testes, testes mobile e testes de API.</p>
 
 ###
 
-<h2 data-importer="text" align="left">About me</h2>
+<h2 data-importer="text" align="left">Sobre mim</h2>
 
 ###
 
 <p data-importer="text" align="left">
-  ✨ Passionate about ensuring robust software quality and catching bugs before production.<br>
-  📱 Specializing in automated and manual testing for Mobile and Web applications.<br>
-  🔌 Extensive experience with API testing, validation, and automation.<br>
-  💼 Connect with me on <a href="https://linkedin.com/in/darling-cabral" target="_blank">LinkedIn</a> or check out my repositories at <a href="https://github.com/DarlingL" target="_blank">GitHub</a>.
+  ✨ Apaixonado por garantir a robustez da qualidade de software e encontrar bugs antes da produção.<br>
+  📱 Especializado em testes automatizados e manuais para aplicações Mobile e Web.<br>
+  🔌 Ampla experiência com testes, validação e automação de APIs.<br>
+  💼 Conecte-se comigo no <a href="https://linkedin.com/in/darling-cabral" target="_blank">LinkedIn</a> ou confira meus repositórios no <a href="https://github.com/DarlingL" target="_blank">GitHub</a>.
 </p>
 
 ###
 
-<h2 data-importer="text" align="left">I code & test with</h2>
+<h2 data-importer="text" align="left">Tecnologias e ferramentas que utilizo</h2>
 
 ###
 
 <div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+  <img src="https://skillicons.dev/icons?icons=cucumber,javascript,ruby,python,java,docker" alt="Tecnologias" />
 </div>
